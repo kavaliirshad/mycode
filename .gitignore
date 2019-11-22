@@ -1,0 +1,4 @@
+txt.sw
+*.log
+**/logs
+logs/
